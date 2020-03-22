@@ -1,0 +1,16 @@
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryBusiness.dll
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryBusiness.pdb
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryConfigUtilities.dll
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryConfigUtilities.pdb
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.dll
+D:\Documents\arch\isealim\D0\LibrarySolution\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.pdb
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryBusiness.dll
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryBusiness.pdb
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryConfigUtilities.dll
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\bin\Debug\LibraryConfigUtilities.pdb
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.csprojAssemblyReference.cache
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.csproj.CopyComplete
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.dll
+C:\Users\Comak\Downloads\LibrarySolution - 2008\LibraryBusiness\obj\Debug\LibraryBusiness.pdb
